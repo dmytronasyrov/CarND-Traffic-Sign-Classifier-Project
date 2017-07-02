@@ -1,2 +1,6 @@
-model_checkpoint_path: "p2_net-669"
-all_model_checkpoint_paths: "p2_net-669"
+model_checkpoint_path: "p2_net-3710"
+all_model_checkpoint_paths: "p2_net-742"
+all_model_checkpoint_paths: "p2_net-1484"
+all_model_checkpoint_paths: "p2_net-2226"
+all_model_checkpoint_paths: "p2_net-2968"
+all_model_checkpoint_paths: "p2_net-3710"
